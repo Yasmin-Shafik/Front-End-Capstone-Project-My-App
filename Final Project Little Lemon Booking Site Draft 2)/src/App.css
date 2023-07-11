@@ -49,7 +49,7 @@
     align-items: center;
     justify-content: center;;
     z-index: 999;
-    background-color: white;
+    background-color: pink;
   }
   
   nav img {
@@ -63,7 +63,7 @@
   
   header {
     padding-top: 150px;
-    background-color: #495e57;
+    background-color: pink;
   }
   
   header section {
@@ -91,7 +91,7 @@
   }
   
   button {
-    background-color: #F4CE14;
+    background-color: pink;
     color: black;
     padding: 20px;
     border: none;
